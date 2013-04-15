@@ -1,0 +1,7 @@
+This is a simple script I'm writting for our zabbix server that will report:
+Jobs actively running
+Jobs in the queue
+CPUs consumed by jobs
+CPUs requested by queued jobs
+
+
